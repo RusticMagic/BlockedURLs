@@ -52,4 +52,6 @@ netlify.app
 sa.com
 *.staicrucoo.sa.com
 staicrucoo.sa.com
+opencart.com/
+*.opencart.com
 
